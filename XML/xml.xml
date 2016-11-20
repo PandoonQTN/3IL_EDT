@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="Text/xsl" href="EDT_Groupe_v2.xsl" ?>
+<DOCUMENT>
+<Date>10/11/16</Date>
+<Heure>08:43:15</Heure>
+<GROUPE>
+<Id>100205</Id>
+<Lib>I2 Groupe 5 Apprentis</Lib>
+<PLAGES>
+<SEMAINE>
+<SemId>6097</SemId>
+<SemCod>16/45</SemCod>
+<JOUR>
+<Date>07/11/2016</Date>
+<Jour>2</Jour>
+<CRENEAU>
+<Creneau>1</Creneau>
+<Activite>AOO TD</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>103</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>2</Creneau>
+<Activite>ANGLAIS TD1</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>307</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>3</Creneau>
+</CRENEAU>
+<CRENEAU>
+<Creneau>4</Creneau>
+<Activite>SIGNAL TD1</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>304</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>5</Creneau>
+<Activite>SIGNAL TDA1</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>304</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>6</Creneau>
+</CRENEAU>
+</JOUR>
+<JOUR>
+<Date>08/11/2016</Date>
+<Jour>3</Jour>
+<CRENEAU>
+<Creneau>1</Creneau>
+<Activite>LANGAGE C C</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>309</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>2</Creneau>
+<Activite>RESEAUX 1 C</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>207</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>3</Creneau>
+</CRENEAU>
+<CRENEAU>
+<Creneau>4</Creneau>
+<Activite>RESEAUX 1 TP</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>207</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>5</Creneau>
+<Activite>RESEAUX 1 TP</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>207</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>6</Creneau>
+<Activite>Point EPP intermédiaire</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>309</Salles>
+</CRENEAU>
+</JOUR>
+<JOUR>
+<Date>09/11/2016</Date>
+<Jour>4</Jour>
+<CRENEAU>
+<Creneau>1</Creneau>
+<Activite>WEB C</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>302</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>2</Creneau>
+<Activite>ANA NUM C1</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>302</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>3</Creneau>
+</CRENEAU>
+<CRENEAU>
+<Creneau>4</Creneau>
+<Activite>RESEAUX 1 TP</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>207</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>5</Creneau>
+<Activite>RESEAUX 1 TP</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>207</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>6</Creneau>
+</CRENEAU>
+</JOUR>
+<JOUR>
+<Date>10/11/2016</Date>
+<Jour>5</Jour>
+<CRENEAU>
+<Creneau>1</Creneau>
+<Activite>CDP TDA</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>304</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>2</Creneau>
+<Activite>LANGUE 2 (S1) TD1</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>303 305 307 308</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>3</Creneau>
+</CRENEAU>
+<CRENEAU>
+<Creneau>4</Creneau>
+<Activite>AOO TD</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>306</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>5</Creneau>
+</CRENEAU>
+<CRENEAU>
+<Creneau>6</Creneau>
+</CRENEAU>
+</JOUR>
+<JOUR>
+<Date>11/11/2016</Date>
+<Jour>6</Jour>
+<CRENEAU>
+<Creneau>1</Creneau>
+<Activite>FERIE</Activite>
+</CRENEAU>
+<CRENEAU>
+<Creneau>2</Creneau>
+<Activite>FERIE</Activite>
+</CRENEAU>
+<CRENEAU>
+<Creneau>3</Creneau>
+<Activite>FERIE</Activite>
+</CRENEAU>
+<CRENEAU>
+<Creneau>4</Creneau>
+<Activite>FERIE</Activite>
+</CRENEAU>
+<CRENEAU>
+<Creneau>5</Creneau>
+<Activite>FERIE</Activite>
+</CRENEAU>
+<CRENEAU>
+<Creneau>6</Creneau>
+<Activite>FERIE</Activite>
+</CRENEAU>
+</JOUR>
+</SEMAINE>
+<SEMAINE>
+<SemId>6098</SemId>
+<SemCod>16/46</SemCod>
+<JOUR>
+<Date>14/11/2016</Date>
+<Jour>2</Jour>
+<CRENEAU>
+<Creneau>1</Creneau>
+</CRENEAU>
+<CRENEAU>
+<Creneau>2</Creneau>
+<Activite>LANGAGE C TP</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>203</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>3</Creneau>
+</CRENEAU>
+<CRENEAU>
+<Creneau>4</Creneau>
+<Activite>LANGAGE C TP</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>203</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>5</Creneau>
+<Activite>CDP TD</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>103</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>6</Creneau>
+</CRENEAU>
+</JOUR>
+<JOUR>
+<Date>15/11/2016</Date>
+<Jour>3</Jour>
+<CRENEAU>
+<Creneau>1</Creneau>
+<Activite>CDP TD</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>103</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>2</Creneau>
+<Activite>ANGLAIS TD1</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>307</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>3</Creneau>
+</CRENEAU>
+<CRENEAU>
+<Creneau>4</Creneau>
+<Activite>LANGAGE C TP</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>203</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>5</Creneau>
+<Activite>LANGAGE C TP</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>203</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>6</Creneau>
+<Activite>SIGNAL TD1</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>103</Salles>
+</CRENEAU>
+</JOUR>
+<JOUR>
+<Date>16/11/2016</Date>
+<Jour>4</Jour>
+<CRENEAU>
+<Creneau>1</Creneau>
+<Activite>ANA NUM C1</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>302</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>2</Creneau>
+<Activite>SIGNAL TD1</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>103</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>3</Creneau>
+</CRENEAU>
+<CRENEAU>
+<Creneau>4</Creneau>
+<Activite>RESEAUX 1 TP</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>207</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>5</Creneau>
+<Activite>RESEAUX 1 TP</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>207</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>6</Creneau>
+</CRENEAU>
+</JOUR>
+<JOUR>
+<Date>17/11/2016</Date>
+<Jour>5</Jour>
+<CRENEAU>
+<Creneau>1</Creneau>
+<Activite>RESEAUX 1 DS</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>302</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>2</Creneau>
+<Activite>LANGUE 2 (S1) TD1</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>303 305 307 308</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>3</Creneau>
+</CRENEAU>
+<CRENEAU>
+<Creneau>4</Creneau>
+<Activite>ANGLAIS (S1) Toeic blanc</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire>13h30-15h30</Horaire>
+<Salles>301 302</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>5</Creneau>
+</CRENEAU>
+<CRENEAU>
+<Creneau>6</Creneau>
+</CRENEAU>
+</JOUR>
+<JOUR>
+<Date>18/11/2016</Date>
+<Jour>6</Jour>
+<CRENEAU>
+<Creneau>1</Creneau>
+<Activite>WEB TP1</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>104</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>2</Creneau>
+<Activite>WEB TP1</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>104</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>3</Creneau>
+</CRENEAU>
+<CRENEAU>
+<Creneau>4</Creneau>
+<Activite>CDP TD</Activite>
+<Couleur>#FFFFFF;</Couleur>
+<Horaire></Horaire>
+<Salles>304</Salles>
+</CRENEAU>
+<CRENEAU>
+<Creneau>5</Creneau>
+</CRENEAU>
+<CRENEAU>
+<Creneau>6</Creneau>
+</CRENEAU>
+</JOUR>
+</SEMAINE>
+</PLAGES>
+</GROUPE>
+</DOCUMENT>
+
